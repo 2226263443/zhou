@@ -23,5 +23,7 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
+-(void)changeAble{
+    NSLog(@"llll");
+}
 @end
